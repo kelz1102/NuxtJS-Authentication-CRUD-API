@@ -81,8 +81,3 @@ export default {
 };
 </script>
 
-<style scope>
-.fa-square-instagram {
-  background: linear-gradient(180deg, #8a3ab9, #fccc63, #fbad50, #cd486b);
-}
-</style>
