@@ -82,7 +82,6 @@ export default {
   computed: {
     ...mapGetters({
       posts: "posts/getAllPosts",
-      user: "user",
     }),
   },
 };
